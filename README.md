@@ -24,22 +24,14 @@
 
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ts,bash,git,linux,spring,angular&theme=dark" alt="languages and frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,ansible,azure,ubuntu,nginx,openstack&theme=dark" alt="devops and cloud"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres&theme=dark" alt="monitoring and databases"/>
-
-<br/><br/>
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-ffca28?style=flat-square&logo=yaml&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,ts,bash&theme=dark" alt="languages"/> |
+| **Frameworks & Testing** | <img src="https://skillicons.dev/icons?i=spring,angular&theme=dark" alt="frameworks"/> ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,ansible,azure,ubuntu,openstack,nginx&theme=dark" alt="cloud and devops"/> ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
+| **Monitoring** | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="monitoring"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="databases"/> ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="tools"/> ![YAML](https://img.shields.io/badge/YAML-ffca28?style=flat-square&logo=yaml&logoColor=black) |
 
 <br/>
 
