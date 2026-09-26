@@ -47,7 +47,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=mahdi-y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="./metrics.svg" alt="GitHub Metrics"/>
+<br/>
 <img src="https://streak-stats.demolab.com/?user=mahdi-y&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
