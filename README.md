@@ -26,7 +26,8 @@
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,ts,bash&theme=dark" alt="languages"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cs,kotlin,python,go,ts,bash&theme=dark" alt="languages"/> |
+| **Markup & Styling** | <img src="https://skillicons.dev/icons?i=css,scss&theme=dark" alt="markup and styling"/> |
 | **Frameworks & Testing** | <img src="https://skillicons.dev/icons?i=spring,angular&theme=dark" alt="frameworks"/> ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,ansible,azure,ubuntu,openstack,nginx&theme=dark" alt="cloud and devops"/> ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
 | **Monitoring** | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="monitoring"/> |
