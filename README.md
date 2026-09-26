@@ -1,122 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:fc5c7d&height=180&section=header&text=Hi%20there,%20I'm%20Mahdi%20👋&fontSize=40&fontColor=ffffff" alt="Mahdi's banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6E72FC&center=true&vCenter=true&width=420&lines=Cloud+%26+DevOps+Student" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdi-y&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
----
-
-### 🛠️ Tech Stack & Skills
-
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-ffca28?style=for-the-badge&logo=yaml&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:fc5c7d&height=180&section=header&text=Hi%20there,%20I'm%20Mahdi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
 
-<!-- Frameworks -->
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E72FC&center=true&vCenter=true&width=440&lines=Cloud+%26+DevOps+Student;Building+%26+breaking+infra;Always+learning+something+new" alt="Typing SVG"/>
 
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-
-<!-- Infra -->
-<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flannel-1A1A1A?style=for-the-badge&logo=flannel&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-<!-- Monitoring -->
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node%20Exporter-3C873A?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<!-- Cloud/CI -->
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Local%20Clusters-6E72FC?style=for-the-badge"/>
+[![Profile views](https://komarev.com/ghpvc/?username=mahdi-y&style=flat-square&color=6e72fc)](https://github.com/mahdi-y)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e72fc?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-zalila/)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-fc5c7d?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/Mahdi2/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedmahdi.zalila@outlook.com)
 
 </div>
 
----
+<br/>
 
-### 📚 Currently Learning / Goals
+## About Me
 
-- Cloud native patterns and microservices
-- Advanced CI/CD pipelines
-- Contributing more to open source
+- 🎓 Cloud & DevOps student, into shipping reliable systems and automating everything
+- 🔭 Currently exploring cloud-native patterns, microservices, and advanced CI/CD pipelines
+- 🌱 Always looking to contribute more to open source
+- 🎬 Off-screen, I'm probably watching a movie — tracked on [Letterboxd](https://letterboxd.com/Mahdi2/)
 
----
+<br/>
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/mahdi-y/spotify2youtubemusic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-y&repo=spotify2youtubemusic&theme=radical"/>
-  </a>
-  <a href="https://github.com/mahdi-y/StudyBuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi-y&repo=StudyBuddy&theme=radical"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-y&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-y&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-y&theme=rogue" alt="Activity Graph"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahdi-zalila/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://letterboxd.com/Mahdi2/">
-    <img src="https://img.shields.io/badge/Letterboxd-00E054?style=for-the-badge&logo=letterboxd&logoColor=white"/>
-  </a>
-  <a href="mailto:mohamedmahdi.zalila@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🎬 Fun Fact
+## Tech Stack
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczY2lxOG0xaTZudHh4djB6MGl6MTRzbTVvYXdyZjgyNGQ4dHF1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErpFhi8NocqYg/giphy.gif" width="300" alt="Whiplash movie GIF"/>
-  <br/>
-  <b>Besides coding, I'm passionate about movies! <br/> 
-  Always happy to chat about films or tech. <br/>
-  Track my cinematic journey on <a href="https://letterboxd.com/Mahdi2/">Letterboxd</a>.</b>
+
+<img src="https://skillicons.dev/icons?i=java,ts,bash,git,linux,spring,angular&theme=dark" alt="languages and frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,ansible,azure,ubuntu,nginx,openstack&theme=dark" alt="devops and cloud"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres&theme=dark" alt="monitoring and databases"/>
+
+<br/><br/>
+
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-ffca28?style=flat-square&logo=yaml&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 </div>
 
----
+<br/>
 
-<p align="center">
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=mahdi-y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=mahdi-y&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-y/mahdi-y/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-y/mahdi-y/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mahdi-y/mahdi-y/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+## Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/mahdi-y/spotify2youtubemusic">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mahdi-y&repo=spotify2youtubemusic&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/mahdi-y/StudyBuddy">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mahdi-y&repo=StudyBuddy&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e72fc,100:fc5c7d&height=120&section=footer"/>
-</p>
+</div>
