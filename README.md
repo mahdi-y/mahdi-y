@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 🎓 Cloud & DevOps student, into shipping reliable systems and automating everything
+- 🎓 Cloud & DevOps Engineer, into shipping reliable systems and automating everything
 - 🔭 Currently exploring cloud-native patterns, microservices, and advanced CI/CD pipelines
 - 🌱 Always looking to contribute more to open source
 - 🎬 Off-screen, I'm probably watching a movie — tracked on [Letterboxd](https://letterboxd.com/Mahdi2/)
